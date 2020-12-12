@@ -1010,7 +1010,7 @@
     (property "Sheet name" "")
     (path "/00000000-0000-0000-0000-000074010d37")
     (attr smd)
-    (fp_text reference "R7" (at 0 -1.43) (layer "F.SilkS")
+    (fp_text reference "R7" (at 2.3369 0.0304) (layer "F.SilkS")
       (effects (font (size 0.8 0.8) (thickness 0.2)))
       (tstamp 0faa7e56-d83e-43a6-a669-096d16d1c18b)
     )
