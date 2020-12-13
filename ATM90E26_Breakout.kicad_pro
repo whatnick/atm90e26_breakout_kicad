@@ -335,7 +335,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "ATM90E26_Breakout.dsn",
       "step": "",
       "vrml": ""
     },
@@ -372,7 +372,7 @@
   },
   "sheets": [
     [
-      "a4e6a2cf-d1a0-4b1d-a562-bd8ca9f8334d",
+      "3706ebcb-6646-4ed6-a43f-0690b8316cfd",
       ""
     ]
   ],
