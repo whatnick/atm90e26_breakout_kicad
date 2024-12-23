@@ -2,6 +2,7 @@
 *bak
 *bck
 _autosave*
+.vscode
 
 # Autoroute files
 *.dsn
